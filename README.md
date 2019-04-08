@@ -1,6 +1,7 @@
 # Final Year Project - MapReduce Software Implementation
 
 <p>This project is part of the MIT/Amazon/IEEE Graph Challenge 2018 - https://github.com/Graph-Challenge/MapReduce</p>
+<br />
 
 <p align="justify">As network graphs become larger, the computational cost of using a single process to perform graph algorithms may be too high. For example, if there are more than 100,000,000 edges, it may take a long time to read in each edge and count the degree of each vertex for a program running on a single computer. We propose to apply MapReduce in three different steps in our PHC algorithm, <i>(1) pruning step</i>, <i>(2) counting of intra-level triangles</i>, and <i>(3) counting of inter-level triangles</i>, so that our PHC algorithm can enable parallel computation of graph algorithms.</p>
 
