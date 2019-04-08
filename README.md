@@ -1,4 +1,4 @@
-# Final Year Project - MapReduce Implementation (Triangle Counting)
+# Final Year Project - MapReduce Implementation
 <br />
 <p>This project is part of the MIT/Amazon/IEEE Graph Challenge 2018 - https://github.com/Graph-Challenge/MapReduce</p>
 <br />
